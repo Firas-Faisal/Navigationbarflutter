@@ -68,6 +68,7 @@ class _FirstPageState extends State<FirstPage> {
           ),
         ],
       ),
+      //this is for drawer to use the drawer just uncomment it and comment the Bottom navigation bar section
       /*drawer: Drawer(
         backgroundColor: Colors.deepPurple[100],
         child: Column(children: [
